@@ -1,0 +1,9 @@
+# Discord ayarları
+discord:
+  bot-token: "BOT_TOKENINIZ"
+  report-channel-id: "KANAL_ID"
+
+# Rapor ayarları
+settings:
+  cooldown: 300 # Saniye cinsinden
+  max-reports-per-day: 5
